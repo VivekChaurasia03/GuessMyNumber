@@ -1,4 +1,4 @@
-# Guess My Number Game
+# [Guess My Number Game](https://mystery-number-game.netlify.app/)
 
 Welcome to Guess My Number Game! This is a simple number guessing game where you try to guess a secret number between 1 and 20.
 
